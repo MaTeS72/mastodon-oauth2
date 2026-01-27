@@ -1,9 +1,16 @@
 # This is a generated file; do not edit or check into version control.
-flutter_web_auth_2=/opt/homebrew/Caskroom/flutter/3.0.1/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_web_auth_2-2.0.2/
-url_launcher=/opt/homebrew/Caskroom/flutter/3.0.1/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-6.1.6/
-url_launcher_android=/opt/homebrew/Caskroom/flutter/3.0.1/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_android-6.0.21/
-url_launcher_ios=/opt/homebrew/Caskroom/flutter/3.0.1/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_ios-6.0.17/
-url_launcher_linux=/opt/homebrew/Caskroom/flutter/3.0.1/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_linux-3.0.1/
-url_launcher_macos=/opt/homebrew/Caskroom/flutter/3.0.1/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_macos-3.0.1/
-url_launcher_web=/opt/homebrew/Caskroom/flutter/3.0.1/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_web-2.0.13/
-url_launcher_windows=/opt/homebrew/Caskroom/flutter/3.0.1/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_windows-3.0.1/
+desktop_webview_window=/Users/martincarska/.pub-cache/hosted/pub.dev/desktop_webview_window-0.2.3/
+flutter_web_auth_2=/Users/martincarska/.pub-cache/git/flutter_web_auth_2-163be7e684e1651861eecf8d532d9a46854b0555/flutter_web_auth_2/
+path_provider=/Users/martincarska/.pub-cache/hosted/pub.dev/path_provider-2.1.4/
+path_provider_android=/Users/martincarska/.pub-cache/hosted/pub.dev/path_provider_android-2.2.12/
+path_provider_foundation=/Users/martincarska/.pub-cache/hosted/pub.dev/path_provider_foundation-2.4.0/
+path_provider_linux=/Users/martincarska/.pub-cache/hosted/pub.dev/path_provider_linux-2.2.1/
+path_provider_windows=/Users/martincarska/.pub-cache/hosted/pub.dev/path_provider_windows-2.3.0/
+url_launcher=/Users/martincarska/.pub-cache/hosted/pub.dev/url_launcher-6.2.5/
+url_launcher_android=/Users/martincarska/.pub-cache/hosted/pub.dev/url_launcher_android-6.3.0/
+url_launcher_ios=/Users/martincarska/.pub-cache/hosted/pub.dev/url_launcher_ios-6.2.4/
+url_launcher_linux=/Users/martincarska/.pub-cache/hosted/pub.dev/url_launcher_linux-3.1.1/
+url_launcher_macos=/Users/martincarska/.pub-cache/hosted/pub.dev/url_launcher_macos-3.1.0/
+url_launcher_web=/Users/martincarska/.pub-cache/hosted/pub.dev/url_launcher_web-2.3.3/
+url_launcher_windows=/Users/martincarska/.pub-cache/hosted/pub.dev/url_launcher_windows-3.1.1/
+window_to_front=/Users/martincarska/.pub-cache/hosted/pub.dev/window_to_front-0.0.3/
